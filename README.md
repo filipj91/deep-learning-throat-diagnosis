@@ -29,6 +29,7 @@ Custom CNN:
 Architecture: convolutional layers, pooling, dropout and dense output layer with sigmoid activation.
 Optimizer: Adam
 Loss function: binary_crossentropy
+
 Transfer Learning with VGG16:
 Using the frozen weights of the pre-trained VGG16 model.
 Adding GlobalAveragePooling2D, BatchNormalization and Dropout layers.
@@ -80,3 +81,13 @@ Interactive dashboards:
 
 -  Dashboard application (App 1)](https://deep-learning-throat-diagnosis-app1.streamlit.app)
 -  Dashboard training (App 2)(https://deep-learning-throat-diagnosis-app2.streamlit.app)
+
+A video explaining how the code works in applications:
+
+1. [app1/video.mp4](app1/video.mp4) - video explaining how the app works 1.
+2. [app2/video.mp4](app2/video.mp4) - Video explaining how the app works 2.
+
+App 1 
+<video src="app1/video.mp4" controls width="500"></video>
+App 2 
+<video src="app2/video.mp4" controls width="500"></video>
