@@ -52,22 +52,16 @@ This project demonstrates the practical application of deep learning in medical 
 - Developing mobile apps for early throat disease detection.
 - Research and education in deep learning for medical imaging.
 
-Data:
-To download the data needed for the project, click on the link below:
+# Data: 
+To download the data needed for the project, click on the link below
 
 https://drive.google.com/drive/folders/1KxByAadRtLKBV2TF3wpJXcqtmisGFpnr?usp=sharing
 
-Interactive dashboards:
+# Interactive dashboards:
 
 -  Dashboard application (App 1)](https://deep-learning-throat-diagnosis-app1.streamlit.app)
 -  Dashboard training (App 2)(https://deep-learning-throat-diagnosis-app2.streamlit.app)
 
-A video explaining how the code works in applications:
+# A video explaining how the code works in applications:
 
-1. [app1/video.mp4](app1/video.mp4) - video explaining how the app works 1.
-2. [app2/video.mp4](app2/video.mp4) - Video explaining how the app works 2.
-
-App 1 
-<video src="app1/video.mp4" controls width="500"></video>
-App 2 
-<video src="app2/video.mp4" controls width="500"></video>
+https://drive.google.com/drive/folders/16doibOU-Yr54VWPM5iYsVmfeXgDSSgcN?usp=sharing
