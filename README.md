@@ -62,6 +62,3 @@ To download the data needed for the project, click on the link below:
 - [Dashboard application (App 1)](https://deep-learning-throat-diagnosis-app1.streamlit.app)
 - [Dashboard training (App 2)](https://deep-learning-throat-diagnosis-app2.streamlit.app)
 
-## A video explaining how the code works in applications
-
-- [Watch Video](https://drive.google.com/drive/folders/16doibOU-Yr54VWPM5iYsVmfeXgDSSgcN?usp=sharing)
